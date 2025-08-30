@@ -63,10 +63,10 @@ python train_telco_churn.py --csv "WA_Fn-UseC_-Telco-Customer-Churn.csv" --out m
 Launch the app locally:
 
 streamlit run app.py
+Check out the live app in action here: 
+https://lnkd.in/ds7YHYiX
 
 
-Open http://localhost:8501
- in your browser.
 
 🖼 App Features
 
