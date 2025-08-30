@@ -64,7 +64,7 @@ Launch the app locally:
 
 streamlit run app.py
 Check out the live app in action here: 
-https://lnkd.in/ds7YHYiX
+https://zeomfecj2exjurj2xnindg.streamlit.app/
 
 
 
